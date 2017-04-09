@@ -1,8 +1,8 @@
 {
-  "name": "mobileapp",
+  "name": "frontend-startingpoint",
   "description": "",
   "main": "index.js",
-  "author": "anna-wro <wro.online@gmail.com>",
+  "author": "Anna Wróbel",
   "license": "ISC",
   "homepage": "",
   "ignore": [

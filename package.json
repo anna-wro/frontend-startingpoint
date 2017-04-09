@@ -1,12 +1,12 @@
 {
-  "name": "mobileapp",
+  "name": "frontend-startingpoint",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "anna-wro <wro.online@gmail.com>",
+  "author": "Anna Wróbel",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.8",
