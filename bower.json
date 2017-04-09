@@ -1,0 +1,19 @@
+{
+  "name": "mobileapp",
+  "description": "",
+  "main": "index.js",
+  "author": "anna-wro <wro.online@gmail.com>",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "stretch-css": "^1.0.3",
+    "normalize-css": "^6.0.0"
+  }
+}
